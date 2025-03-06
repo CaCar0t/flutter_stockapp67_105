@@ -13,7 +13,7 @@ class LoginForm extends StatelessWidget {
 
   final _formKeyLogin = GlobalKey<FormState>();
 
-  final _emailController = TextEditingController(text: 'sakchaisr@gmail.com');
+  final _emailController = TextEditingController(text: '66122660105@g.lpru.ac.th');
   final _passwordController = TextEditingController(text: '123456');
 
   @override

@@ -93,15 +93,15 @@ class _DashboardScreenState extends State<DashboardScreen> {
               shrinkWrap: true,
               children: [
                 UserAccountsDrawerHeader(
-                  accountName: Text('Sakchai Srimakorn'),
-                  accountEmail: Text('sakchai@email.com'),
+                  accountName: Text('Thanachort Khampun'),
+                  accountEmail: Text('66122660105@g.lpru.ac.th'),
                   currentAccountPicture: CircleAvatar(
-                    backgroundImage: AssetImage('assets/images/sr.png'),
+                    backgroundImage: AssetImage('assets/images/pond.jpg'),
                   ),
                   otherAccountsPictures: [
                     CircleAvatar(
                       backgroundImage:
-                          AssetImage('assets/images/noavartar.png'),
+                          AssetImage('assets/images/pond.jpg'),
                     ),
                   ],
                 ),

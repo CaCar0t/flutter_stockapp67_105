@@ -1,8 +1,8 @@
 
 // API URL
 // Local
-const baseURLAPI = 'http://192.168.1.6:3000/api/';
-const baseURLImage = 'http://192.168.1.6:3000/uploads/images/';
+const baseURLAPI = 'http://192.168.1.50:3000/api/';
+const baseURLImage = 'http://192.168.1.50:3000/uploads/images/';
 
 // const baseURLAPI = 'http://10.6.75.90:3000/api/';
 // const baseURLImage = 'http://10.6.75.90:3000/uploads/images/';
